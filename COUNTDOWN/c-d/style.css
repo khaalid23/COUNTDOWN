@@ -1,0 +1,38 @@
+*{
+ margin: 0;
+ padding: 0;
+ background-color: rgb(53, 55, 79);
+}
+ 
+body{
+ font-family: sans-serif;
+}
+
+.container{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ text-align: center;
+ margin-top: 15%;
+}
+
+h1 {
+ margin: 10px;
+ font-size: 32px;
+ color: rgb(217, 221, 224);
+}
+
+h4 {
+ margin: 10px;
+ font-size: 24px;
+ color: rgb(217, 221, 224);
+}
+
+.count-dwon{
+ background-color: rgb(32, 32, 49);
+ padding: 25px;
+ border-radius: 5px;
+ font-size: 24px;
+ color: rgb(217, 221, 224);
+}
+
